@@ -1,0 +1,285 @@
+2026-04-15 19:48:56 | INFO | Starting FastAPI backend...
+2026-04-15 19:48:56 | INFO | Loading data.json...
+2026-04-15 19:49:21 | INFO | Starting FastAPI backend...
+2026-04-15 19:49:21 | INFO | Loading data.json...
+2026-04-15 19:51:40 | INFO | Starting FastAPI backend...
+2026-04-15 19:51:40 | INFO | Starting FastAPI backend...
+2026-04-15 19:51:40 | INFO | Loading data.json...
+2026-04-15 19:51:40 | INFO | Loading data.json...
+2026-04-15 19:51:40 | INFO | Loaded 50 documents.
+2026-04-15 19:51:40 | INFO | Loaded 50 documents.
+2026-04-15 19:51:47 | INFO | Starting FastAPI backend...
+2026-04-15 19:51:47 | INFO | Loading data.json...
+2026-04-15 19:51:47 | INFO | Loaded 50 documents.
+2026-04-15 19:57:29 | INFO | Starting FastAPI backend...
+2026-04-15 19:57:29 | INFO | Starting FastAPI backend...
+2026-04-15 19:57:29 | INFO | Starting FastAPI backend...
+2026-04-15 19:57:29 | INFO | Loading data.json...
+2026-04-15 19:57:29 | INFO | Loading data.json...
+2026-04-15 19:57:29 | INFO | Loaded 50 documents.
+2026-04-15 19:57:29 | INFO | Loaded 50 documents.
+2026-04-15 19:57:29 | INFO | Loaded 50 documents.
+2026-04-15 19:58:37 | INFO | Starting FastAPI backend...
+2026-04-15 19:58:37 | INFO | Loading data.json...
+2026-04-15 19:58:37 | INFO | Loading data.json...
+2026-04-15 19:58:37 | INFO | Loaded 50 documents.
+2026-04-15 19:58:37 | INFO | Loaded 50 documents.
+2026-04-15 19:58:37 | INFO | Starting FastAPI backend...
+2026-04-15 19:58:37 | INFO | Loading data.json...
+2026-04-15 19:58:37 | INFO | Loaded 50 documents.
+2026-04-15 19:59:52 | INFO | Starting FastAPI backend...
+2026-04-15 19:59:52 | INFO | Loading data.json...
+2026-04-15 19:59:52 | INFO | Loaded 50 documents.
+2026-04-15 19:59:52 | INFO | Starting FastAPI backend...
+2026-04-15 19:59:52 | INFO | Starting FastAPI backend...
+2026-04-15 19:59:52 | INFO | Loading data.json...
+2026-04-15 19:59:52 | INFO | Loading data.json...
+2026-04-15 19:59:52 | INFO | Loaded 50 documents.
+2026-04-15 19:59:52 | INFO | Loaded 50 documents.
+2026-04-15 20:00:51 | INFO | Starting FastAPI backend...
+2026-04-15 20:00:51 | INFO | Loading data.json...
+2026-04-15 20:00:51 | INFO | Loaded 50 documents.
+2026-04-15 20:00:51 | INFO | Loaded 50 documents.
+2026-04-15 20:00:51 | INFO | Starting FastAPI backend...
+2026-04-15 20:00:51 | INFO | Loading data.json...
+2026-04-15 20:00:51 | INFO | Loaded 50 documents.
+2026-04-15 20:02:07 | INFO | Starting FastAPI backend...
+2026-04-15 20:02:07 | INFO | Loading data.json...
+2026-04-15 20:02:07 | INFO | Loading data.json...
+2026-04-15 20:02:07 | INFO | Loaded 50 documents.
+2026-04-15 20:02:07 | INFO | Loaded 50 documents.
+2026-04-15 20:02:07 | INFO | Starting FastAPI backend...
+2026-04-15 20:02:07 | INFO | Loading data.json...
+2026-04-15 20:02:07 | INFO | Loaded 50 documents.
+2026-04-15 20:03:01 | INFO | Starting FastAPI backend...
+2026-04-15 20:03:01 | INFO | Loading data.json...
+2026-04-15 20:03:01 | INFO | Loaded 50 documents.
+2026-04-15 20:03:01 | INFO | Starting FastAPI backend...
+2026-04-15 20:03:01 | INFO | Loading data.json...
+2026-04-15 20:03:01 | INFO | Starting FastAPI backend...
+2026-04-15 20:03:01 | INFO | Loaded 50 documents.
+2026-04-15 20:03:01 | INFO | Loading data.json...
+2026-04-15 20:03:01 | INFO | Loaded 50 documents.
+2026-04-15 20:05:17 | INFO | Starting Gradio UI...
+2026-04-15 20:05:18 | INFO | HTTP Request: HEAD https://huggingface.co/api/telemetry/https%3A/api.gradio.app/gradio-initiated-analytics "HTTP/1.1 200 OK"
+2026-04-15 20:05:18 | INFO | HTTP Request: GET https://api.gradio.app/pkg-version "HTTP/1.1 200 OK"
+2026-04-15 20:05:20 | INFO | HTTP Request: GET http://localhost:7860/gradio_api/startup-events "HTTP/1.1 200 OK"
+2026-04-15 20:05:22 | INFO | HTTP Request: HEAD http://localhost:7860/ "HTTP/1.1 200 OK"
+2026-04-15 20:05:22 | INFO | HTTP Request: HEAD https://huggingface.co/api/telemetry/https%3A/api.gradio.app/gradio-launched-telemetry "HTTP/1.1 200 OK"
+2026-04-15 20:09:25 | INFO | User asked: How are Chinese tech stocks performing this week
+2026-04-15 20:09:25 | INFO | Received query: How are Chinese tech stocks performing this week
+2026-04-15 20:09:25 | INFO | Retrieving documents for query: How are Chinese tech stocks performing this week
+2026-04-15 20:09:25 | INFO | Loading SentenceTransformer model...
+2026-04-15 20:09:35 | ERROR | Error in Gradio UI
+Traceback (most recent call last):
+  File "C:\Users\pokha\AppData\Local\Programs\Python\Python313\Lib\site-packages\urllib3\connectionpool.py", line 534, in _make_request
+    response = conn.getresponse()
+  File "C:\Users\pokha\AppData\Local\Programs\Python\Python313\Lib\site-packages\urllib3\connection.py", line 565, in getresponse
+    httplib_response = super().getresponse()
+  File "C:\Users\pokha\AppData\Local\Programs\Python\Python313\Lib\http\client.py", line 1430, in getresponse
+    response.begin()
+    ~~~~~~~~~~~~~~^^
+  File "C:\Users\pokha\AppData\Local\Programs\Python\Python313\Lib\http\client.py", line 331, in begin
+    version, status, reason = self._read_status()
+                              ~~~~~~~~~~~~~~~~~^^
+  File "C:\Users\pokha\AppData\Local\Programs\Python\Python313\Lib\http\client.py", line 292, in _read_status
+    line = str(self.fp.readline(_MAXLINE + 1), "iso-8859-1")
+               ~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^
+  File "C:\Users\pokha\AppData\Local\Programs\Python\Python313\Lib\socket.py", line 719, in readinto
+    return self._sock.recv_into(b)
+           ~~~~~~~~~~~~~~~~~~~~^^^
+TimeoutError: timed out
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "C:\Users\pokha\AppData\Local\Programs\Python\Python313\Lib\site-packages\requests\adapters.py", line 644, in send
+    resp = conn.urlopen(
+        method=request.method,
+    ...<9 lines>...
+        chunked=chunked,
+    )
+  File "C:\Users\pokha\AppData\Local\Programs\Python\Python313\Lib\site-packages\urllib3\connectionpool.py", line 841, in urlopen
+    retries = retries.increment(
+        method, url, error=new_e, _pool=self, _stacktrace=sys.exc_info()[2]
+    )
+  File "C:\Users\pokha\AppData\Local\Programs\Python\Python313\Lib\site-packages\urllib3\util\retry.py", line 474, in increment
+    raise reraise(type(error), error, _stacktrace)
+          ~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\pokha\AppData\Local\Programs\Python\Python313\Lib\site-packages\urllib3\util\util.py", line 39, in reraise
+    raise value
+  File "C:\Users\pokha\AppData\Local\Programs\Python\Python313\Lib\site-packages\urllib3\connectionpool.py", line 787, in urlopen
+    response = self._make_request(
+        conn,
+    ...<10 lines>...
+        **response_kw,
+    )
+  File "C:\Users\pokha\AppData\Local\Programs\Python\Python313\Lib\site-packages\urllib3\connectionpool.py", line 536, in _make_request
+    self._raise_timeout(err=e, url=url, timeout_value=read_timeout)
+    ~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\pokha\AppData\Local\Programs\Python\Python313\Lib\site-packages\urllib3\connectionpool.py", line 367, in _raise_timeout
+    raise ReadTimeoutError(
+        self, url, f"Read timed out. (read timeout={timeout_value})"
+    ) from err
+urllib3.exceptions.ReadTimeoutError: HTTPConnectionPool(host='127.0.0.1', port=8000): Read timed out. (read timeout=10)
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\pokha\Downloads\news-mlops\rag.py", line 36, in ask_question
+    response = requests.post(API_URL, json={"query": query}, timeout=10)
+  File "C:\Users\pokha\AppData\Local\Programs\Python\Python313\Lib\site-packages\requests\api.py", line 115, in post
+    return request("post", url, data=data, json=json, **kwargs)
+  File "C:\Users\pokha\AppData\Local\Programs\Python\Python313\Lib\site-packages\requests\api.py", line 59, in request
+    return session.request(method=method, url=url, **kwargs)
+           ~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\pokha\AppData\Local\Programs\Python\Python313\Lib\site-packages\requests\sessions.py", line 589, in request
+    resp = self.send(prep, **send_kwargs)
+  File "C:\Users\pokha\AppData\Local\Programs\Python\Python313\Lib\site-packages\requests\sessions.py", line 703, in send
+    r = adapter.send(request, **kwargs)
+  File "C:\Users\pokha\AppData\Local\Programs\Python\Python313\Lib\site-packages\requests\adapters.py", line 690, in send
+    raise ReadTimeout(e, request=request)
+requests.exceptions.ReadTimeout: HTTPConnectionPool(host='127.0.0.1', port=8000): Read timed out. (read timeout=10)
+2026-04-15 20:10:21 | INFO | No device provided, using cpu
+2026-04-15 20:10:22 | INFO | HTTP Request: HEAD https://huggingface.co/sentence-transformers/all-MiniLM-L6-v2/resolve/main/modules.json "HTTP/1.1 307 Temporary Redirect"
+2026-04-15 20:10:22 | WARNING | Warning: You are sending unauthenticated requests to the HF Hub. Please set a HF_TOKEN to enable higher rate limits and faster downloads.
+2026-04-15 20:10:22 | INFO | HTTP Request: HEAD https://huggingface.co/api/resolve-cache/models/sentence-transformers/all-MiniLM-L6-v2/c9745ed1d9f207416be6d2e6f8de32d1f16199bf/modules.json "HTTP/1.1 200 OK"
+2026-04-15 20:10:22 | INFO | HTTP Request: HEAD https://huggingface.co/sentence-transformers/all-MiniLM-L6-v2/resolve/main/config_sentence_transformers.json "HTTP/1.1 307 Temporary Redirect"
+2026-04-15 20:10:22 | INFO | HTTP Request: HEAD https://huggingface.co/api/resolve-cache/models/sentence-transformers/all-MiniLM-L6-v2/c9745ed1d9f207416be6d2e6f8de32d1f16199bf/config_sentence_transformers.json "HTTP/1.1 200 OK"
+2026-04-15 20:10:22 | INFO | Loading SentenceTransformer model from sentence-transformers/all-MiniLM-L6-v2.
+2026-04-15 20:10:23 | INFO | HTTP Request: HEAD https://huggingface.co/sentence-transformers/all-MiniLM-L6-v2/resolve/main/config_sentence_transformers.json "HTTP/1.1 307 Temporary Redirect"
+2026-04-15 20:10:23 | INFO | HTTP Request: HEAD https://huggingface.co/api/resolve-cache/models/sentence-transformers/all-MiniLM-L6-v2/c9745ed1d9f207416be6d2e6f8de32d1f16199bf/config_sentence_transformers.json "HTTP/1.1 200 OK"
+2026-04-15 20:10:23 | INFO | HTTP Request: HEAD https://huggingface.co/sentence-transformers/all-MiniLM-L6-v2/resolve/main/README.md "HTTP/1.1 307 Temporary Redirect"
+2026-04-15 20:10:23 | INFO | HTTP Request: HEAD https://huggingface.co/api/resolve-cache/models/sentence-transformers/all-MiniLM-L6-v2/c9745ed1d9f207416be6d2e6f8de32d1f16199bf/README.md "HTTP/1.1 200 OK"
+2026-04-15 20:10:23 | INFO | HTTP Request: HEAD https://huggingface.co/sentence-transformers/all-MiniLM-L6-v2/resolve/main/modules.json "HTTP/1.1 307 Temporary Redirect"
+2026-04-15 20:10:23 | INFO | HTTP Request: HEAD https://huggingface.co/api/resolve-cache/models/sentence-transformers/all-MiniLM-L6-v2/c9745ed1d9f207416be6d2e6f8de32d1f16199bf/modules.json "HTTP/1.1 200 OK"
+2026-04-15 20:10:23 | INFO | HTTP Request: HEAD https://huggingface.co/sentence-transformers/all-MiniLM-L6-v2/resolve/main/sentence_bert_config.json "HTTP/1.1 307 Temporary Redirect"
+2026-04-15 20:10:23 | INFO | HTTP Request: HEAD https://huggingface.co/api/resolve-cache/models/sentence-transformers/all-MiniLM-L6-v2/c9745ed1d9f207416be6d2e6f8de32d1f16199bf/sentence_bert_config.json "HTTP/1.1 200 OK"
+2026-04-15 20:10:23 | INFO | HTTP Request: HEAD https://huggingface.co/sentence-transformers/all-MiniLM-L6-v2/resolve/main/adapter_config.json "HTTP/1.1 404 Not Found"
+2026-04-15 20:10:23 | INFO | HTTP Request: HEAD https://huggingface.co/sentence-transformers/all-MiniLM-L6-v2/resolve/main/config.json "HTTP/1.1 307 Temporary Redirect"
+2026-04-15 20:10:23 | INFO | HTTP Request: HEAD https://huggingface.co/api/resolve-cache/models/sentence-transformers/all-MiniLM-L6-v2/c9745ed1d9f207416be6d2e6f8de32d1f16199bf/config.json "HTTP/1.1 200 OK"
+2026-04-15 20:10:24 | INFO | HTTP Request: HEAD https://huggingface.co/sentence-transformers/all-MiniLM-L6-v2/resolve/main/processor_config.json "HTTP/1.1 404 Not Found"
+2026-04-15 20:10:24 | INFO | HTTP Request: HEAD https://huggingface.co/sentence-transformers/all-MiniLM-L6-v2/resolve/main/preprocessor_config.json "HTTP/1.1 404 Not Found"
+2026-04-15 20:10:24 | INFO | HTTP Request: HEAD https://huggingface.co/sentence-transformers/all-MiniLM-L6-v2/resolve/main/video_preprocessor_config.json "HTTP/1.1 404 Not Found"
+2026-04-15 20:10:24 | INFO | HTTP Request: HEAD https://huggingface.co/sentence-transformers/all-MiniLM-L6-v2/resolve/main/preprocessor_config.json "HTTP/1.1 404 Not Found"
+2026-04-15 20:10:25 | INFO | HTTP Request: HEAD https://huggingface.co/sentence-transformers/all-MiniLM-L6-v2/resolve/main/tokenizer_config.json "HTTP/1.1 307 Temporary Redirect"
+2026-04-15 20:10:25 | INFO | HTTP Request: HEAD https://huggingface.co/api/resolve-cache/models/sentence-transformers/all-MiniLM-L6-v2/c9745ed1d9f207416be6d2e6f8de32d1f16199bf/tokenizer_config.json "HTTP/1.1 200 OK"
+2026-04-15 20:10:25 | INFO | HTTP Request: HEAD https://huggingface.co/sentence-transformers/all-MiniLM-L6-v2/resolve/main/config.json "HTTP/1.1 307 Temporary Redirect"
+2026-04-15 20:10:25 | INFO | HTTP Request: HEAD https://huggingface.co/api/resolve-cache/models/sentence-transformers/all-MiniLM-L6-v2/c9745ed1d9f207416be6d2e6f8de32d1f16199bf/config.json "HTTP/1.1 200 OK"
+2026-04-15 20:10:25 | INFO | HTTP Request: HEAD https://huggingface.co/sentence-transformers/all-MiniLM-L6-v2/resolve/main/config.json "HTTP/1.1 307 Temporary Redirect"
+2026-04-15 20:10:25 | INFO | HTTP Request: HEAD https://huggingface.co/api/resolve-cache/models/sentence-transformers/all-MiniLM-L6-v2/c9745ed1d9f207416be6d2e6f8de32d1f16199bf/config.json "HTTP/1.1 200 OK"
+2026-04-15 20:10:25 | INFO | HTTP Request: HEAD https://huggingface.co/sentence-transformers/all-MiniLM-L6-v2/resolve/main/tokenizer_config.json "HTTP/1.1 307 Temporary Redirect"
+2026-04-15 20:10:25 | INFO | HTTP Request: HEAD https://huggingface.co/api/resolve-cache/models/sentence-transformers/all-MiniLM-L6-v2/c9745ed1d9f207416be6d2e6f8de32d1f16199bf/tokenizer_config.json "HTTP/1.1 200 OK"
+2026-04-15 20:10:25 | INFO | HTTP Request: GET https://huggingface.co/api/models/sentence-transformers/all-MiniLM-L6-v2/tree/main/additional_chat_templates?recursive=false&expand=false "HTTP/1.1 404 Not Found"
+2026-04-15 20:10:25 | INFO | HTTP Request: GET https://huggingface.co/api/models/sentence-transformers/all-MiniLM-L6-v2/tree/main?recursive=true&expand=false "HTTP/1.1 200 OK"
+2026-04-15 20:10:26 | INFO | HTTP Request: HEAD https://huggingface.co/sentence-transformers/all-MiniLM-L6-v2/resolve/main/1_Pooling/config.json "HTTP/1.1 307 Temporary Redirect"
+2026-04-15 20:10:26 | INFO | HTTP Request: HEAD https://huggingface.co/api/resolve-cache/models/sentence-transformers/all-MiniLM-L6-v2/c9745ed1d9f207416be6d2e6f8de32d1f16199bf/1_Pooling%2Fconfig.json "HTTP/1.1 200 OK"
+2026-04-15 20:10:26 | INFO | HTTP Request: GET https://huggingface.co/api/models/sentence-transformers/all-MiniLM-L6-v2 "HTTP/1.1 200 OK"
+2026-04-15 20:10:28 | INFO | Model loaded and embeddings created.
+2026-04-15 20:10:28 | WARNING | No strong matches found. Using fallback.
+2026-04-15 20:10:28 | INFO | Retrieved 2 documents after filtering.
+2026-04-15 20:10:28 | INFO | Retrieved 2 context documents.
+2026-04-15 20:10:28 | INFO | Sending request to Groq API...
+2026-04-15 20:10:29 | INFO | Returning answer to client.
+2026-04-15 20:10:45 | INFO | User asked: How are Chinese tech stocks performing this week
+2026-04-15 20:10:45 | INFO | Received query: How are Chinese tech stocks performing this week
+2026-04-15 20:10:45 | INFO | Retrieving documents for query: How are Chinese tech stocks performing this week
+2026-04-15 20:10:45 | WARNING | No strong matches found. Using fallback.
+2026-04-15 20:10:45 | INFO | Retrieved 2 documents after filtering.
+2026-04-15 20:10:45 | INFO | Retrieved 2 context documents.
+2026-04-15 20:10:45 | INFO | Sending request to Groq API...
+2026-04-15 20:10:46 | INFO | Returning answer to client.
+2026-04-15 20:10:46 | INFO | Received response from backend.
+2026-04-15 20:10:56 | INFO | User asked: How are Chinese tech stocks performing 
+2026-04-15 20:10:56 | INFO | Received query: How are Chinese tech stocks performing 
+2026-04-15 20:10:56 | INFO | Retrieving documents for query: How are Chinese tech stocks performing 
+2026-04-15 20:10:56 | WARNING | No strong matches found. Using fallback.
+2026-04-15 20:10:56 | INFO | Retrieved 2 documents after filtering.
+2026-04-15 20:10:56 | INFO | Retrieved 2 context documents.
+2026-04-15 20:10:56 | INFO | Sending request to Groq API...
+2026-04-15 20:10:57 | INFO | Returning answer to client.
+2026-04-15 20:10:57 | INFO | Received response from backend.
+2026-04-15 20:11:09 | INFO | User asked: How are Chinese tech stocks performing  ths week 
+2026-04-15 20:11:09 | INFO | Received query: How are Chinese tech stocks performing  ths week 
+2026-04-15 20:11:09 | INFO | Retrieving documents for query: How are Chinese tech stocks performing  ths week 
+2026-04-15 20:11:09 | WARNING | No strong matches found. Using fallback.
+2026-04-15 20:11:09 | INFO | Retrieved 2 documents after filtering.
+2026-04-15 20:11:09 | INFO | Retrieved 2 context documents.
+2026-04-15 20:11:09 | INFO | Sending request to Groq API...
+2026-04-15 20:11:10 | INFO | Returning answer to client.
+2026-04-15 20:11:10 | INFO | Received response from backend.
+2026-04-15 21:16:01 | INFO | Starting FastAPI backend...
+2026-04-15 21:16:01 | INFO | Loading data.json...
+2026-04-15 21:16:01 | INFO | Loaded 50 documents.
+2026-04-15 21:16:27 | INFO | Starting Gradio UI...
+2026-04-15 21:16:28 | INFO | HTTP Request: HEAD https://huggingface.co/api/telemetry/https%3A/api.gradio.app/gradio-initiated-analytics "HTTP/1.1 200 OK"
+2026-04-15 21:16:29 | INFO | HTTP Request: GET https://api.gradio.app/pkg-version "HTTP/1.1 200 OK"
+2026-04-15 21:18:06 | INFO | Starting Gradio UI...
+2026-04-15 21:18:07 | INFO | HTTP Request: HEAD https://huggingface.co/api/telemetry/https%3A/api.gradio.app/gradio-initiated-analytics "HTTP/1.1 200 OK"
+2026-04-15 21:18:07 | INFO | HTTP Request: GET https://api.gradio.app/pkg-version "HTTP/1.1 200 OK"
+2026-04-15 21:18:57 | INFO | Starting FastAPI backend...
+2026-04-15 21:18:57 | INFO | Loading data.json...
+2026-04-15 21:18:57 | INFO | Loaded 50 documents.
+2026-04-15 21:19:07 | INFO | Starting Gradio UI...
+2026-04-15 21:19:08 | INFO | HTTP Request: HEAD https://huggingface.co/api/telemetry/https%3A/api.gradio.app/gradio-initiated-analytics "HTTP/1.1 200 OK"
+2026-04-15 21:19:09 | INFO | HTTP Request: GET https://api.gradio.app/pkg-version "HTTP/1.1 200 OK"
+2026-04-15 21:21:37 | INFO | Starting Gradio UI...
+2026-04-15 21:21:38 | INFO | HTTP Request: HEAD https://huggingface.co/api/telemetry/https%3A/api.gradio.app/gradio-initiated-analytics "HTTP/1.1 200 OK"
+2026-04-15 21:21:39 | INFO | HTTP Request: GET https://api.gradio.app/pkg-version "HTTP/1.1 200 OK"
+2026-04-15 21:21:40 | INFO | HTTP Request: GET http://localhost:7860/gradio_api/startup-events "HTTP/1.1 200 OK"
+2026-04-15 21:21:42 | INFO | HTTP Request: HEAD http://localhost:7860/ "HTTP/1.1 200 OK"
+2026-04-15 21:21:43 | INFO | HTTP Request: HEAD https://huggingface.co/api/telemetry/https%3A/api.gradio.app/gradio-launched-telemetry "HTTP/1.1 200 OK"
+2026-04-15 21:25:32 | INFO | User asked: What are the challenges of carbon capture technology?
+2026-04-15 21:25:32 | INFO | Received query: What are the challenges of carbon capture technology?
+2026-04-15 21:25:32 | INFO | Retrieving documents for query: What are the challenges of carbon capture technology?
+2026-04-15 21:25:32 | WARNING | No strong matches found. Using fallback.
+2026-04-15 21:25:32 | INFO | Retrieved 2 documents after filtering.
+2026-04-15 21:25:32 | INFO | Retrieved 2 context documents.
+2026-04-15 21:25:32 | INFO | Sending request to Groq API...
+2026-04-15 21:25:34 | INFO | Returning answer to client.
+2026-04-15 21:25:34 | INFO | Received response from backend.
+2026-04-15 21:27:07 | INFO | User asked: why mc donald is facing loss?
+2026-04-15 21:27:07 | INFO | Received query: why mc donald is facing loss?
+2026-04-15 21:27:07 | INFO | Retrieving documents for query: why mc donald is facing loss?
+2026-04-15 21:27:07 | WARNING | No strong matches found. Using fallback.
+2026-04-15 21:27:07 | INFO | Retrieved 2 documents after filtering.
+2026-04-15 21:27:07 | INFO | Retrieved 2 context documents.
+2026-04-15 21:27:07 | INFO | Sending request to Groq API...
+2026-04-15 21:27:08 | INFO | Returning answer to client.
+2026-04-15 21:27:08 | INFO | Received response from backend.
+2026-04-15 21:31:43 | INFO | User asked: What is happeining with Johnson Controls?
+2026-04-15 21:31:43 | INFO | Received query: What is happeining with Johnson Controls?
+2026-04-15 21:31:43 | INFO | Retrieving documents for query: What is happeining with Johnson Controls?
+2026-04-15 21:31:43 | WARNING | No strong matches found. Using fallback.
+2026-04-15 21:31:43 | INFO | Retrieved 2 documents after filtering.
+2026-04-15 21:31:43 | INFO | Retrieved 2 context documents.
+2026-04-15 21:31:43 | INFO | Sending request to Groq API...
+2026-04-15 21:31:45 | INFO | Returning answer to client.
+2026-04-15 21:31:45 | INFO | Received response from backend.
+2026-04-15 21:37:49 | INFO | Starting FastAPI backend...
+2026-04-15 21:37:49 | INFO | Loading data.json...
+2026-04-15 21:37:49 | INFO | Starting FastAPI backend...
+2026-04-15 21:37:49 | INFO | Loading data.json...
+2026-04-15 21:37:49 | INFO | Loaded 50 documents.
+2026-04-15 21:37:49 | INFO | Loaded 50 documents.
+2026-04-15 21:37:50 | INFO | Starting FastAPI backend...
+2026-04-15 21:37:50 | INFO | Loading data.json...
+2026-04-15 21:37:50 | INFO | Loaded 50 documents.
+2026-04-15 21:37:50 | INFO | Starting FastAPI backend...
+2026-04-15 21:37:50 | INFO | Loading data.json...
+2026-04-15 21:37:50 | INFO | Loaded 50 documents.
+2026-04-15 21:37:51 | INFO | Starting FastAPI backend...
+2026-04-15 21:37:51 | INFO | Loading data.json...
+2026-04-15 21:37:51 | INFO | Loaded 50 documents.
+2026-04-15 21:39:20 | INFO | Starting FastAPI backend...
+2026-04-15 21:39:20 | INFO | Loading data.json...
+2026-04-15 21:39:20 | INFO | Loaded 50 documents.
+2026-04-15 21:39:43 | INFO | Starting Gradio UI...
+2026-04-15 21:39:44 | INFO | HTTP Request: HEAD https://huggingface.co/api/telemetry/https%3A/api.gradio.app/gradio-initiated-analytics "HTTP/1.1 200 OK"
+2026-04-15 21:39:45 | INFO | HTTP Request: GET https://api.gradio.app/pkg-version "HTTP/1.1 200 OK"
+2026-04-15 21:42:01 | INFO | Starting Gradio UI...
+2026-04-15 21:42:02 | INFO | HTTP Request: HEAD https://huggingface.co/api/telemetry/https%3A/api.gradio.app/gradio-initiated-analytics "HTTP/1.1 200 OK"
+2026-04-15 21:42:03 | INFO | HTTP Request: GET https://api.gradio.app/pkg-version "HTTP/1.1 200 OK"
+2026-04-15 21:42:04 | INFO | HTTP Request: GET http://localhost:7860/gradio_api/startup-events "HTTP/1.1 200 OK"
+2026-04-15 21:42:06 | INFO | HTTP Request: HEAD http://localhost:7860/ "HTTP/1.1 200 OK"
+2026-04-15 21:42:06 | INFO | HTTP Request: HEAD https://huggingface.co/api/telemetry/https%3A/api.gradio.app/gradio-launched-telemetry "HTTP/1.1 200 OK"
