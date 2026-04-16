@@ -6,3 +6,8 @@ urllib3==1.26.18
 numpy
 sentence-transformers
 python-dotenv
+chromadb
+pydantic
+typing-extensions
+torch
+pandas
