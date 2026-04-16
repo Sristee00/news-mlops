@@ -3,8 +3,7 @@ name: Scheduled Data Ingestion
 on:
   schedule:
   - cron: "0 */2 * * *"
-   # Runs every day at 06:00 UTC
-  workflow_dispatch:       # Allows manual run
+  workflow_dispatch:      
 
 jobs:
   run-ingestion:
