@@ -1,6 +1,9 @@
 {
   "name": "MLOps Exam Environment",
-  "dockerFile": "Dockerfile",
+  "build": {
+    "dockerfile": "Dockerfile",
+    "context": ".."
+  },
   "forwardPorts": [8000],
   "postCreateCommand": "pip install -r requirements.txt",
   "customizations": {
