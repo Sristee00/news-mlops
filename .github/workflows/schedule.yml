@@ -1,12 +1,12 @@
-name: Scheduled Data Ingestion
+name: Scheduled Pipeline
 
 on:
   schedule:
-  - cron: "0 */2 * * *"
-  workflow_dispatch:      
+    - cron: "0 */2 * * *"   # runs every 2 hours
+  workflow_dispatch:
 
 jobs:
-  run-ingestion:
+  run-pipeline:
     runs-on: ubuntu-latest
 
     steps:
@@ -21,5 +21,8 @@ jobs:
       - name: Install dependencies
         run: pip install -r requirements.txt
 
-      - name: Run ingestion script
-        run: python ingest_data.py
+      - name: Run full pipeline
+        run: |
+          python create_data.py
+          python ingest_data.py
+          python vector_db.py
